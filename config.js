@@ -42,15 +42,15 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6281997496643', '𝗔𝗻𝗴𝗴𝗮𝗫𝘆𝘇𝘇', true],//
+['6283846913715', '𝗔𝗻𝗴𝗴𝗮𝗫𝘆𝘇𝘇', true],//
 ['6287771597518', 'AnggaBotz-MD Official', true]
 ]
 global.mods = []
 global.prems = []
 global.nomorbot = '6287771597518'
-global.nomorown = '6281997496643'
-global.nomorownv2 = '+62 877-7159-7518'
-global.nomorown1 = '6281997496643'
+global.nomorown = '6283846913715'
+global.nomorownv2 = '6283846913715'
+global.nomorown1 = '6283846913715'
 global.nomorown2 = '6287771597518'
 global.nomorwa = '0'
 
@@ -93,11 +93,11 @@ global.syt = 'https://youtube.com/channel/UCY89Fb9pCVUeMqEGikvOhNQ' //youtube
 global.sytv = 'https://youtu.be/JdjA6THtu_Q'//link video yt
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '081997496643'
-global.povo = 'Gada🗿'
-global.pgopay = '081997496643'
+global.pdana = '083846913715'
+global.povo = '083846913715'
+global.pgopay = '083846913715'
 global.plinkaja = 'Gada🗿' //link aja
-global.ppulsa = '081997496643 XL'
+global.ppulsa = '083846913715 XL'
 global.ppulsa2 = 'Gada🗿'
 global.psaweria = 'https://saweria.co/AnggaXyzz'
 
@@ -321,7 +321,7 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 global.dtu = 'ʏᴏᴜᴛᴜʙᴇ'
 global.urlnya = "https://youtube.com/channel/UCY89Fb9pCVUeMqEGikvOhNQ"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '081997496643'
+global.phn = '083846913715'
 
 function pickRandom(list) {
   return list[Math.floor(Math.random() * list.length)]
